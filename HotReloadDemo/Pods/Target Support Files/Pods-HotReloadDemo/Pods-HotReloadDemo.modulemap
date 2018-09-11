@@ -1,0 +1,6 @@
+framework module Pods_HotReloadDemo {
+  umbrella header "Pods-HotReloadDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
